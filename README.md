@@ -4,6 +4,7 @@ Lio, a telecom giant, plans to merge with streaming platform Jotstar. This proje
 
 [LIVE Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWVmZTcyZmItZTZkMC00NjBjLWJiYmYtODVjY2Q4MDdjZTRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+
 🎯 Objectives
 Track user growth, upgrade/downgrade trends, and content consumption
 
@@ -11,9 +12,11 @@ Track user growth, upgrade/downgrade trends, and content consumption
 
 - Deliver actionable insights for strategy and retention
 
+
 🧠 Key Challenges & Solutions
 - No direct key between content tables
 → Solved using USERELATIONSHIP & TREATAS in DAX
+
 
 📊 Insights & Recommendations
 High downgrades? → Improve premium value, offer trials
@@ -26,8 +29,10 @@ Inactive users? → Use AI for personalized content & re-engagement
 
 Boost reach? → Bundle with Lio plans, flexible pricing, retail promos
 
+
 🛠 Tools
 Power BI | SQL | DAX | canva
+
 
 
 📌 Key Performance Analysis
