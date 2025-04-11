@@ -2,6 +2,8 @@
 🔍 Overview
 Lio, a telecom giant, plans to merge with streaming platform Jotstar. This project analyzes user behavior and platform performance (Jan–Nov 2024) to support post-merger decisions.
 
+[LIVE REPORTS](https://app.powerbi.com/view?r=eyJrIjoiNWVmZTcyZmItZTZkMC00NjBjLWJiYmYtODVjY2Q4MDdjZTRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 🎯 Objectives
 Track user growth, upgrade/downgrade trends, and content consumption
 
