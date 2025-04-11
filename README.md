@@ -42,15 +42,15 @@ This project includes four focused dashboards designed to evaluate LioCinema and
 🧭 Navigation
 The report is divided into 4 main pages for quick access:
 
-Performance Overview – Key business metrics and growth trends
+- Performance Overview – Key business metrics and growth trends
 
-Subscription & Demographics – User breakdown by platform, age, and city tier
+- Subscription & Demographics – User breakdown by platform, age, and city tier
 
-Churn & Retention Analysis – Upgrade/downgrade flow and retention insights
+- Churn & Retention Analysis – Upgrade/downgrade flow and retention insights
 
-Inactivity & Consumption Behaviour – Content engagement and inactive users
+- Inactivity & Consumption Behaviour – Content engagement and inactive users
 
-- Navigate via the left panel or use buttons on the landing page.
+##  Navigate via the left panel or use buttons on the landing page.
 
 ![Navigation](https://github.com/user-attachments/assets/f4975686-b5fc-43e8-9cb4-59907a542b4d)
 
