@@ -5,7 +5,7 @@ Lio, a telecom giant, plans to merge with streaming platform Jotstar. This proje
 [LIVE Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWVmZTcyZmItZTZkMC00NjBjLWJiYmYtODVjY2Q4MDdjZTRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
-🎯 #Objectives
+🎯 # Objectives
 Track user growth, upgrade/downgrade trends, and content consumption
 
 - Compare LioCinema and Jotstar across age groups and city tiers
@@ -14,13 +14,13 @@ Track user growth, upgrade/downgrade trends, and content consumption
 
 
 
-🧠 #Key Challenges & Solutions
+🧠 # Key Challenges & Solutions
 - No direct key between content tables
 → Solved using USERELATIONSHIP & TREATAS in DAX
 
 
 
-📊 #Insights & Recommendations
+📊 # Insights & Recommendations
 High downgrades? → Improve premium value, offer trials
 
 Low upgrades? → Use targeted marketing, exclusive perks
@@ -33,17 +33,17 @@ Boost reach? → Bundle with Lio plans, flexible pricing, retail promos
 
 
 
-🛠 #Tools
+🛠 # Tools
 Power BI | SQL | DAX | canva
 
 
 
 
-📌 #Key Performance Analysis
+📌 # Key Performance Analysis
 This project includes four focused dashboards designed to evaluate LioCinema and Jotstar's strategic performance ahead of their merger:
 
 
-🧭 #Navigation
+🧭 # Navigation
 The report is divided into 4 main pages for quick access:
 
 - Performance Overview – Key business metrics and growth trends
