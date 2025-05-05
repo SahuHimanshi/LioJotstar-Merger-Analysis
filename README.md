@@ -13,9 +13,11 @@ Track user growth, upgrade/downgrade trends, and content consumption
 - Deliver actionable insights for strategy and retention
 
 
+
 🧠 Key Challenges & Solutions
 - No direct key between content tables
 → Solved using USERELATIONSHIP & TREATAS in DAX
+
 
 
 📊 Insights & Recommendations
@@ -30,8 +32,10 @@ Inactive users? → Use AI for personalized content & re-engagement
 Boost reach? → Bundle with Lio plans, flexible pricing, retail promos
 
 
+
 🛠 Tools
 Power BI | SQL | DAX | canva
+
 
 
 
@@ -49,6 +53,7 @@ The report is divided into 4 main pages for quick access:
 - Churn & Retention Analysis – Upgrade/downgrade flow and retention insights
 
 - Inactivity & Consumption Behaviour – Content engagement and inactive users
+
 
 ##  Navigate via the left panel or use buttons on the landing page.
 
