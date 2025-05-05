@@ -33,7 +33,7 @@ Boost reach? → Bundle with Lio plans, flexible pricing, retail promos
 
 
 
-🛠  Tools
+🛠  Tools : 
 Power BI | SQL | DAX | canva
 
 
